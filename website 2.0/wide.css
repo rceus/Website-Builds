@@ -1,0 +1,242 @@
+
+#third
+{
+	background: white; 
+	width: 100%;
+	height: 44vw;
+	border-left: 2px solid black;
+
+}
+#main-content 
+{ 
+	float: right; 
+	width: 40%; 
+	height: 40vw; 
+	margin-right: 5%;
+	margin-top: 2vw;
+}
+
+#thirdpicture
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	height: 45%;
+	width: height;
+}
+
+#thirdtextheading
+{
+/*   	text-align: center;
+	color:black;
+	font-size: 25px;
+	font-weight: 600;
+	line-height: 30px;
+*/
+	text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#thirdtextyear
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: #8B3A3A;
+	font-size: 1em;
+	font-weight: 400;
+	margin-top: 20px;
+	width: 15em;
+}
+
+#thirdtext
+{/*
+	color:black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	font-size: 1em;
+	font-weight: 400;
+	width: 20em;
+	*/
+	color:black;
+	font-size: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	font-weight: 300;
+	width: 20em;
+}
+
+#secondary-one 
+{ 
+	width: 40%; 
+	height: 40vw; 
+	position: absolute;
+	margin-left: 5%; 
+	margin-top: 2vw;
+}
+
+#fifth
+{
+	height: 44vw;
+	width: 100vw;
+	background-color: #223347;
+	border-left: 2px solid black;
+}
+
+#fifthdiv1
+{
+	width: 23vw; 
+	height: 40vw; 
+	position: absolute;
+	margin-left: 1.5vw; 
+	margin-top: 2vw;
+/*
+	border-left: 2px solid white;
+	border-right: 2px solid white;
+	border-bottom: 2px solid white;
+	border-top: 2px solid white;
+*/
+}
+#fifthdiv2
+{
+	float: right; 
+	width: 23vw; 
+	height: 40vw; 
+	margin-right: 2vw;
+	margin-top: 2vw;
+}
+#fifthdiv3
+{
+	float: left; 
+	width: 23vw; 
+	height: 40vw; 
+	margin-left: 26vw;
+	margin-top: 2vw;
+}
+#fifthdiv4
+{
+	float: left; 
+	width: 23vw; 
+	height: 40vw; 
+	margin-left: 1vw;
+	margin-top: 2vw;
+}
+#fifthpic
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 60%;
+	height: width;
+}
+#fifthheading
+{
+	text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    text-shadow: #223347 0.1em 0.1em 0.2em;
+}
+#fifthyear
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+	font-size: 1em;
+	font-weight: 400;
+	margin-top: 20px;
+}
+#fifthtext
+{/*
+	color:white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 1.1em;
+	font-weight: 400;
+	width: 13em;
+	*/
+	color:white;
+	font-size: 1.1em;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-weight: 200;
+	width:12em;
+}
+
+#seventhheading
+{
+	color:white;
+	font-size: 3em;
+	text-align: center;
+	font-weight: 200;
+	text-shadow: #223347 0.1em 0.1em 0.2em;
+}
+
+
+#ninth
+{
+	height: 102vw;
+	width: 100%;
+	border-left: 2px solid black;
+}
+
+#ninthdiv1
+{
+	width: 100vw; 
+	height: 20vw;
+
+	border-top: 2px solid white;
+	border-left: 2px solid white;
+	border-right: 2px solid white;
+	border-bottom: 2px solid white;
+}
+
+#ninthpic
+{
+	float: left;
+	width: 16vw;
+	height: width;
+	margin-left: 5vw;
+	margin-top: 2vw;
+}
+
+#ninthpic1
+{
+	float: right;
+	width: 16vw;
+	height: width;
+	margin-right: 5vw;
+	margin-top: 2vw;
+}
+
+#ninthheading
+{
+	color:#223347;
+	font-size: 2.5em;
+	text-align: center;
+	font-weight: 200;
+	text-shadow: white 0.1em 0.1em 0.2em;
+}
+
+#ninthtext
+{
+	color:#223347;
+	font-size: 1.2em;
+	text-align: center;
+	font-weight: 200;
+	margin-right: 5vw;
+	margin-left: 5vw;
+	text-shadow: white 0.1em 0.1em 0.2em;
+}

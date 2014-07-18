@@ -1,0 +1,33 @@
+/*
+	 CSS-Tricks Example
+	 by Chris Coyier
+	 http://css-tricks.com
+*/
+
+* 
+{ 
+	margin: 0; 
+	padding: 0; 
+}
+
+body 
+{ 
+	font: 14px Georgia, serif;
+}
+
+#main-content 
+{ 
+	background: white; 
+	border-top: 2px solid black;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+}
+#secondary-one 
+{ 	
+	background: white;
+	border-top: 2px solid black;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+}

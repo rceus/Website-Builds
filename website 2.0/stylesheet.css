@@ -1,0 +1,394 @@
+body 
+{	
+	font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-color: white;
+}
+
+a:link
+{
+	color: blue;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+a:active{
+	text-decoration: underline;
+	font-weight: bold;
+}
+a:visited
+{
+	color: #00c;
+}
+
+body 
+{
+	margin: 0px;
+}
+
+#container 
+{
+	background: white url('assets/chicago.jpg') no-repeat fixed center;
+	background-size: 100% 100%;
+	height: 100%;
+	max-width: 100%;
+	border-left: 2px solid black;
+}
+
+#pic 
+{
+	height: 30%;
+	width: height;
+	margin-top: 5%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#quora-follow-buttonpos
+{
+	text-align: center;
+}
+
+#fb-follow-buttonpos
+{
+	margin-left: 48%;
+}
+
+#home1 
+{
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	font-weight: 700;
+	line-height: 30px;
+	margin-top: 18px;
+	text-shadow: black 0.1em 0.1em 0.2em;
+} 
+
+
+#home2 
+{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+	margin-top: 20px;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#second 
+{
+	height: 35%;
+	width: 100%;
+	display: table;
+	background: white url('assets/bluemac.jpg') no-repeat fixed center;
+	border-left: 2px solid black;
+}
+
+.secondtext
+{
+	min-height: 10em;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	color:white;
+	font-size: 4.5vmin;
+	font-weight: 300;
+	margin-right: 40px;
+	margin-left: 40px;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#fourth
+{
+	height: 45%;
+	width: 100%;
+	display: table;
+	background: white url('assets/bluemac.jpg') no-repeat fixed center;
+	background-size: 100% 100%;
+	border-left: 2px solid black;
+}
+
+#fourthtext
+{
+	min-height: 10em;
+	display: table-cell;
+	vertical-align: middle;
+	color:white;
+	font-size: 3em;
+	text-align: center;
+	font-weight: 700;
+	margin-left: 40px;
+	margin-right: 40px;
+	text-shadow: black 0.1em 0.1em 0.2em;
+
+
+}
+
+#sixth
+{
+	height: 45%;
+	width: 100%;
+	display: table;
+	background: white url('assets/bluemac.jpg') no-repeat fixed center;
+	background-size: 100% 100%;
+	border-left: 2px solid black;
+}
+
+#sixthtext
+{
+	min-height: 10em;
+	display: table-cell;
+	vertical-align: middle;
+	color:white;
+	font-size: 3em;
+	text-align: center;
+	font-weight: 700;
+	margin-left: 40px;
+	margin-right: 40px;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#seventh
+{
+	height: 95%;
+	width: 100%;
+	background-color: #223347;
+	background-size: 100% 100%;
+	border-left: 2px solid black;
+}
+
+#eight
+{
+	height: 45%;
+	width: 100%;
+	display: table;
+	background: white url('assets/bluemac.jpg') no-repeat fixed center;
+	background-size: 100% 100%;
+	border-left: 2px solid black;
+}
+
+#eighttext
+{	
+	min-height: 10em;
+	display: table-cell;
+	vertical-align: middle;
+	color:white;
+	font-size: 3em;
+	text-align: center;
+	font-weight: 700;
+	margin-left: 40px;
+	margin-right: 40px;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#tenth
+{
+	height: 45%;
+	width: 100%;
+	display: table;
+	background: white url('assets/bluemac.jpg') no-repeat fixed center;
+	background-size: 100% 100%;
+	border-left: 2px solid black;
+}
+
+#tenthtext
+{
+	min-height: 10em;
+	display: table-cell;
+	vertical-align: middle;
+	color:white;
+	font-size: 3em;
+	text-align: center;
+	font-weight: 700;
+	margin-left: 40px;
+	margin-right: 40px;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#contacts 
+{
+	height: 30vw;
+	width: 100%;
+}
+
+#contacttext
+{
+	text-align: center;
+	color:gray;
+	font-size: 30px;
+	font-weight: 300;
+	margin-right: 40px;
+	margin-left: 40px;
+	text-shadow: white 0.1em 0.1em 0.5em;
+
+}
+
+#contacttext1
+{
+	text-align: center;
+	color:gray;
+	font-size: 30px;
+	font-weight: 300;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+#contactimagesgit
+{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left:13%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+}
+#contactimagesgit:hover{
+
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left:13%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);
+	-moz-opacity: 1;
+	opacity: 1;
+
+}
+#contactimagesgoogleplus
+{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left: 5%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+
+}
+#contactimagesgoogleplus:hover{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left: 5%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);
+	-moz-opacity: 1;
+	opacity: 1;	
+}
+
+#contactimageslinkedin
+{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left: 5%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+}
+#contactimageslinkedin:hover
+{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left: 5%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);
+	-moz-opacity: 1;
+	opacity: 1;	
+}
+
+#contactimagestwitter
+{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left: 5%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+}
+#contactimagestwitter:hover
+{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left: 5%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);
+	-moz-opacity: 1;
+	opacity: 1;	
+}
+
+#contactimagesfacebook
+{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left: 5%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+}
+#contactimagesfacebook:hover
+{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left: 5%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);
+	-moz-opacity: 1;
+	opacity: 1;	
+}
+#contactimagesemail
+{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left: 5%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+}
+#contactimagesemail:hover
+{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left: 5%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);
+	-moz-opacity: 1;
+	opacity: 1;	
+}
+
+#contactimagesquora
+{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left: 5%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+}
+#contactimagesquora:hover
+{
+	height: 20%;
+	width: height;
+	margin-top: 5%;
+	margin-left: 5%;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);
+	-moz-opacity: 1;
+	opacity: 1;	
+}
+#firsttext
+{
+	text-align: center;
+	color:white;
+	font-size: 30px;
+	font-weight: 200;
+	line-height: 30px;
+	margin-top: 20px;
+	margin-right: 40px;
+	margin-left: 40px;
+
+}
