@@ -15,7 +15,7 @@ A repository containing all the websites builds for my personal website.
     
     - Added functionality on mobile devices
     
-    - A lot of bugs need to be addressed. 
+    - A lot of bugs need to be addressed though. (mobile)
     
   Developed in HTML, CSS, JS.
   
