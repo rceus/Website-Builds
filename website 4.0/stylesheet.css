@@ -72,6 +72,11 @@ body
 	text-shadow: black 0.1em 0.1em 0.2em;
 }
 
+#fb-follow-buttonpos
+{
+	margin-left: 48%;
+}
+
 #second 
 {
 	max-height: 35%;
